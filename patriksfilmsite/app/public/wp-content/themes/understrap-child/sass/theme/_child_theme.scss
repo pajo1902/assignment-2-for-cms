@@ -1,0 +1,32 @@
+//här ska jag lägga till min styling
+body {
+    background-color: lightgray !important;
+}
+.wrapper.container-fluid {
+    margin-bottom: 50px;
+}
+
+.card {
+    margin-bottom: 15px !important;
+    // background-color: red;
+}
+
+#wrapper-footer {
+    background-color: #2e2e2e;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    color: gray;
+    text-align: center;
+    margin-top: 20px;
+    a {
+        color: gray;
+    }
+}
+
+.front-page {
+    // border: 2px solid black;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+}

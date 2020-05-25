@@ -1,0 +1,122 @@
+[18-Mar-2020 20:53:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/plugins/movie-site-plugin/movie-site-plugin.php on line 53
+[18-Mar-2020 20:53:58 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/plugins/movie-site-plugin/movie-site-plugin.php on line 53
+[18-Mar-2020 20:53:58 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/plugins/movie-site-plugin/movie-site-plugin.php on line 53
+[18-Mar-2020 23:12:56 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 66
+[18-Mar-2020 23:21:09 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 62
+[18-Mar-2020 23:22:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php:32
+Stack trace:
+#0 /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php(19): require_once('/Users/Patrik/L...')
+#2 /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php(17): require('/Users/Patrik/L...')
+#3 {main}
+  thrown in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 32
+[18-Mar-2020 23:23:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php:28
+Stack trace:
+#0 /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php(19): require_once('/Users/Patrik/L...')
+#2 /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php(17): require('/Users/Patrik/L...')
+#3 {main}
+  thrown in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 28
+[18-Mar-2020 23:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php:28
+Stack trace:
+#0 /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php(19): require_once('/Users/Patrik/L...')
+#2 /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php(17): require('/Users/Patrik/L...')
+#3 {main}
+  thrown in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 28
+[03-May-2020 17:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_editor() in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php:31
+Stack trace:
+#0 /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php(19): require_once('/Users/Patrik/L...')
+#2 /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php(17): require('/Users/Patrik/L...')
+#3 {main}
+  thrown in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 31
+[03-May-2020 18:00:02 UTC] PHP Parse error:  syntax error, unexpected ''editor'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 31
+[03-May-2020 18:48:09 UTC] PHP Catchable fatal error:  Object of class WP_Query could not be converted to string in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 31
+[03-May-2020 18:48:09 UTC] PHP Stack trace:
+[03-May-2020 18:48:09 UTC] PHP   1. {main}() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:0
+[03-May-2020 18:48:09 UTC] PHP   2. require() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:17
+[03-May-2020 18:48:09 UTC] PHP   3. require_once() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php:19
+[03-May-2020 18:48:09 UTC] PHP   4. include() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php:98
+[06-May-2020 20:23:53 UTC] PHP Warning:  Use of undefined constant FILE - assumed 'FILE' (this will throw an Error in a future version of PHP) in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/plugins/movie-site-plugin/movie-site-plugin.php on line 140
+[06-May-2020 20:23:53 UTC] PHP Stack trace:
+[06-May-2020 20:23:53 UTC] PHP   1. {main}() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-admin/post-new.php:0
+[06-May-2020 20:23:53 UTC] PHP   2. get_default_post_to_edit() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-admin/post-new.php:66
+[06-May-2020 20:23:53 UTC] PHP   3. wp_insert_post() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-admin/includes/post.php:671
+[06-May-2020 20:23:53 UTC] PHP   4. do_action() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/post.php:4129
+[06-May-2020 20:23:53 UTC] PHP   5. WP_Hook->do_action() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/plugin.php:478
+[06-May-2020 20:23:53 UTC] PHP   6. WP_Hook->apply_filters() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/class-wp-hook.php:312
+[06-May-2020 20:23:53 UTC] PHP   7. product_price_box_save() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/class-wp-hook.php:290
+[06-May-2020 20:24:15 UTC] PHP Warning:  Use of undefined constant FILE - assumed 'FILE' (this will throw an Error in a future version of PHP) in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/plugins/movie-site-plugin/movie-site-plugin.php on line 140
+[06-May-2020 20:24:15 UTC] PHP Stack trace:
+[06-May-2020 20:24:15 UTC] PHP   1. {main}() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-admin/post-new.php:0
+[06-May-2020 20:24:15 UTC] PHP   2. get_default_post_to_edit() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-admin/post-new.php:66
+[06-May-2020 20:24:15 UTC] PHP   3. wp_insert_post() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-admin/includes/post.php:671
+[06-May-2020 20:24:15 UTC] PHP   4. do_action() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/post.php:4129
+[06-May-2020 20:24:15 UTC] PHP   5. WP_Hook->do_action() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/plugin.php:478
+[06-May-2020 20:24:15 UTC] PHP   6. WP_Hook->apply_filters() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/class-wp-hook.php:312
+[06-May-2020 20:24:15 UTC] PHP   7. product_price_box_save() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/class-wp-hook.php:290
+[06-May-2020 20:24:27 UTC] PHP Warning:  Use of undefined constant FILE - assumed 'FILE' (this will throw an Error in a future version of PHP) in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/plugins/movie-site-plugin/movie-site-plugin.php on line 140
+[06-May-2020 20:24:27 UTC] PHP Stack trace:
+[06-May-2020 20:24:27 UTC] PHP   1. {main}() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-admin/post-new.php:0
+[06-May-2020 20:24:27 UTC] PHP   2. get_default_post_to_edit() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-admin/post-new.php:66
+[06-May-2020 20:24:27 UTC] PHP   3. wp_insert_post() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-admin/includes/post.php:671
+[06-May-2020 20:24:27 UTC] PHP   4. do_action() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/post.php:4129
+[06-May-2020 20:24:27 UTC] PHP   5. WP_Hook->do_action() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/plugin.php:478
+[06-May-2020 20:24:27 UTC] PHP   6. WP_Hook->apply_filters() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/class-wp-hook.php:312
+[06-May-2020 20:24:27 UTC] PHP   7. product_price_box_save() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/class-wp-hook.php:290
+[06-May-2020 20:54:43 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 41
+[06-May-2020 20:54:43 UTC] PHP Stack trace:
+[06-May-2020 20:54:43 UTC] PHP   1. {main}() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:0
+[06-May-2020 20:54:43 UTC] PHP   2. require() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:17
+[06-May-2020 20:54:43 UTC] PHP   3. require_once() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php:19
+[06-May-2020 20:54:43 UTC] PHP   4. include() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php:98
+[06-May-2020 20:58:21 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php:40
+Stack trace:
+#0 /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php(98): include()
+#1 /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php(19): require_once('/Users/Patrik/L...')
+#2 /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php(17): require('/Users/Patrik/L...')
+#3 {main}
+  thrown in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 40
+[06-May-2020 21:48:11 UTC] PHP Warning:  usort() expects parameter 1 to be array, null given in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 27
+[06-May-2020 21:48:11 UTC] PHP Stack trace:
+[06-May-2020 21:48:11 UTC] PHP   1. {main}() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:0
+[06-May-2020 21:48:11 UTC] PHP   2. require() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:17
+[06-May-2020 21:48:11 UTC] PHP   3. require_once() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php:19
+[06-May-2020 21:48:11 UTC] PHP   4. include() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php:98
+[06-May-2020 21:48:11 UTC] PHP   5. usort() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php:27
+[06-May-2020 21:48:43 UTC] PHP Warning:  usort() expects parameter 1 to be array, null given in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 27
+[06-May-2020 21:48:43 UTC] PHP Stack trace:
+[06-May-2020 21:48:43 UTC] PHP   1. {main}() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:0
+[06-May-2020 21:48:43 UTC] PHP   2. require() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:17
+[06-May-2020 21:48:43 UTC] PHP   3. require_once() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php:19
+[06-May-2020 21:48:43 UTC] PHP   4. include() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php:98
+[06-May-2020 21:48:43 UTC] PHP   5. usort() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php:27
+[06-May-2020 21:49:17 UTC] PHP Warning:  usort() expects parameter 1 to be array, object given in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 27
+[06-May-2020 21:49:17 UTC] PHP Stack trace:
+[06-May-2020 21:49:17 UTC] PHP   1. {main}() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:0
+[06-May-2020 21:49:17 UTC] PHP   2. require() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:17
+[06-May-2020 21:49:17 UTC] PHP   3. require_once() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php:19
+[06-May-2020 21:49:17 UTC] PHP   4. include() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php:98
+[06-May-2020 21:49:17 UTC] PHP   5. usort() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php:27
+[06-May-2020 21:49:30 UTC] PHP Warning:  usort() expects parameter 1 to be array, object given in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 27
+[06-May-2020 21:49:30 UTC] PHP Stack trace:
+[06-May-2020 21:49:30 UTC] PHP   1. {main}() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:0
+[06-May-2020 21:49:30 UTC] PHP   2. require() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:17
+[06-May-2020 21:49:30 UTC] PHP   3. require_once() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php:19
+[06-May-2020 21:49:30 UTC] PHP   4. include() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php:98
+[06-May-2020 21:49:30 UTC] PHP   5. usort() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php:27
+[06-May-2020 21:49:55 UTC] PHP Warning:  usort() expects parameter 1 to be array, object given in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 27
+[06-May-2020 21:49:55 UTC] PHP Stack trace:
+[06-May-2020 21:49:55 UTC] PHP   1. {main}() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:0
+[06-May-2020 21:49:55 UTC] PHP   2. require() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:17
+[06-May-2020 21:49:55 UTC] PHP   3. require_once() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php:19
+[06-May-2020 21:49:55 UTC] PHP   4. include() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php:98
+[06-May-2020 21:49:55 UTC] PHP   5. usort() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php:27
+[06-May-2020 21:50:07 UTC] PHP Warning:  usort() expects parameter 1 to be array, object given in /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php on line 27
+[06-May-2020 21:50:07 UTC] PHP Stack trace:
+[06-May-2020 21:50:07 UTC] PHP   1. {main}() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:0
+[06-May-2020 21:50:07 UTC] PHP   2. require() /Users/Patrik/Local Sites/patriksfilmsite/app/public/index.php:17
+[06-May-2020 21:50:07 UTC] PHP   3. require_once() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-blog-header.php:19
+[06-May-2020 21:50:07 UTC] PHP   4. include() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-includes/template-loader.php:98
+[06-May-2020 21:50:07 UTC] PHP   5. usort() /Users/Patrik/Local Sites/patriksfilmsite/app/public/wp-content/themes/understrap-child/front-page.php:27
